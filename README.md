@@ -33,5 +33,8 @@ streamlit run app.py
 ## Model Details
 The included network recognizes 15 diseases affecting peppers, potatoes, and tomatoes. Training was performed with PyTorch using images from the PlantVillage dataset. The weights are provided for demo purposes only and may not generalize to all conditions.
 
+## Model Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
 ## License
 This project is released under the MIT License. See `LICENSE` for the full text.
