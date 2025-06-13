@@ -1,5 +1,7 @@
 # Plant Disease Detection App
 
+[🌐 Live Demo on Streamlit Cloud](https://plant-disease-detection-app-liquiduck.streamlit.app/)
+
 This repository provides a lightweight demo for identifying common plant diseases from a photograph of a leaf. The application is packaged as a [Streamlit](https://streamlit.io/) web app and uses a small ResNet-18 model for inference.
 
 ## Overview
